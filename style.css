@@ -1,0 +1,25 @@
+.container-1{
+    border: 9px solid darkcyan;
+    width: 75%
+    margin: 0 auto;
+    text-align: center;
+}
+
+.flex-box-container-1{
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+    border: 2px solid darkcyan;
+    
+}
+.flex-box-container-1 img {
+    margin: 10px;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0.7); 
+}
+
+.h1{
+    font-family:inherit;
+    font-size: 3rem;
+    color: lightblue;
+}
